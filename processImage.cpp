@@ -1,6 +1,5 @@
 #include <QtGui>
 #include "processImage.h"
-#include "videodevice.h"
 
 extern "C"
 {

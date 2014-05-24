@@ -7,3 +7,4 @@
 
 - you can find executable file in output
 
+![image](http://www.iotwrt.com/jpg/cubie.jpg)
